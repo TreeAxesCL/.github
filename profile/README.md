@@ -20,9 +20,11 @@
 - Spring Cloud
 
 **Herramientas**
+
 Docker / Docker Compose
 
 **Motores de Base de Datos**
+
 *SQL*
 - MySQL
 - PostgreSQL
