@@ -1,6 +1,7 @@
 # TreeAxes Corp
 *Ingeniería de Software Distribuida*
 
+
 ## Stack
 **Frontend**
 
@@ -21,14 +22,13 @@
 
 **Herramientas**
 
-Docker / Docker Compose
+- Docker
+- Docker Compose
 
-**Motores de Base de Datos**
+**Bases de Datos**
 
-*SQL*
 - MySQL
 - PostgreSQL
 - Oracle DB
-
-*NoSQL*
 - MongoDB
+- Liquibase
