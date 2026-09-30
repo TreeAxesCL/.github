@@ -1,6 +1,6 @@
 # TreeAxes
 
-> **Ingeniería de software para construir, evolucionar y conectar el futuro digital.**
+> **Ingeniería de Software Distribuida**
 
 En **TreeAxes** diseñamos y desarrollamos soluciones de software con una visión distribuida, moderna y orientada a las personas. Convertimos ideas y desafíos tecnológicos en productos digitales claros, escalables y sostenibles.
 
@@ -14,7 +14,7 @@ En **TreeAxes** diseñamos y desarrollamos soluciones de software con una visió
 
 Trabajamos con foco en la calidad, la colaboración y la mejora continua, adaptándonos a las necesidades de cada organización y proyecto.
 
-## Conectemos
+## Visite el sitio web para mas Informacion.
 
 🌐 [treeaxes.com](https://www.treeaxes.com)
 
