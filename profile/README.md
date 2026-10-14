@@ -16,8 +16,9 @@ Trabajamos con foco en la calidad, la colaboración y la mejora continua, adapt�
 
 ## Visite el sitio web para mas Informacion.
 
-🌐 [treeaxes.com](https://www.treeaxes.com)
+🌐 [www.treeaxes.com](https://www.treeaxes.com)
 
 ---
 
-© 2026 TreeAxes. Todos los derechos reservados.
+
+*© 2026 TreeAxes. Todos los derechos reservados.*
